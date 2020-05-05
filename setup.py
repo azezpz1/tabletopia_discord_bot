@@ -10,5 +10,5 @@ setup(
     license="MIT",
     long_description=long_description,
     author="Anthony Panettiere",
-    packages=["tabletopia"],  # same as name
+    packages=["tabletopia-discord-bot"],  # same as name
 )
