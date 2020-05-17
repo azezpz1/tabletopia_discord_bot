@@ -3,3 +3,4 @@ tox
 mypy
 pytest
 pip-tools
+requests
