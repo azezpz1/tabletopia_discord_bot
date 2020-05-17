@@ -3,4 +3,5 @@ tox
 mypy
 pytest
 pip-tools
+rope
 requests
